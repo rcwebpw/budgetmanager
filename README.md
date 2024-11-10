@@ -43,6 +43,10 @@ reset-account
 
 For simplicity of use i decided not to add any password. So what if you want multiple user? Just create a new folder for them with their name and you can run the script for that account alone
 
+Data save:
+
+csv and text file of transactions
+
 I provided a zip file. Enjoy managing your budget on the CLI, cool right? :)
 
 
