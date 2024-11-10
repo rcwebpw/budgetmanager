@@ -49,4 +49,7 @@ csv and text file of transactions
 
 I provided a zip file. Enjoy managing your budget on the CLI, cool right? :)
 
+also available to run executable:
+
+![application run time](application-js-runtime.png)
 
