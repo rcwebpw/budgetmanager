@@ -7,6 +7,14 @@ Make sure you are running on a Nodejs server
 Go to your local where the file is hosted such as local server, change "yourname" to personalize it
 C:\xampp\htdocs\nodejs\budgetmanager_yourname>
 
+Make sure you have Node.js installed, then create a folder for your project and run:
+
+npm init -y
+
+This initializes a new project. We’ll also use the csv-writer package to simplify CSV handling:
+
+npm install csv-writer
+
 Then simply run
 
 node budgetmanager.js
