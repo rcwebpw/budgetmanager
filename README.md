@@ -1,6 +1,8 @@
 # BudgetManager
 A simple budget manager that is super easy to use, runs on command line and uses Nodejs server
 
+![Screenshot of App in action](app-in-action.png)
+
 How to use:
 Make sure you are running on a Nodejs server
 
