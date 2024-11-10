@@ -53,3 +53,4 @@ also available to run executable:
 
 ![application run time](application-js-runtime.png)
 
+note: designed to be as simple as possible so it does not care if you cash-in negative amount or cash-out amount exceeding the current balance. 
